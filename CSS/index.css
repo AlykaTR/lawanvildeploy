@@ -27,6 +27,11 @@
     justify-content: center;
 }
 
+.bodyContent{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
 #mainBody{
     background-color: #727576;
     color: #EFF2EF;
