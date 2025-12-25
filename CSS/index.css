@@ -1,6 +1,6 @@
 #titleContainer{
     display: flex;
-    align-items: flex-end;
+    align-items: baseline;
     justify-content: center;
     border-bottom: 3px solid black;
     background-color: #071E22;
@@ -14,6 +14,7 @@
 
 #byAlyka{
     font-size: clamp(0.8rem, 3vw, 1rem);
+    white-space: nowrap;
 }
 
 .center{
