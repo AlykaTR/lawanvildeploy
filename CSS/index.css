@@ -5,10 +5,16 @@
     border-bottom: 3px solid black;
     background-color: #071E22;
     color: #EFF2EF;
+    flex-wrap: nowrap;
 }
 
 #title{
     font-size: 350%;
+}
+
+#byAlyka {
+    margin-left: 10px;
+    white-space: nowrap;
 }
 
 .center{
