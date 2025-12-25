@@ -10,3 +10,12 @@
 #title{
     font-size: 350%;
 }
+
+.center{
+    justify-content: center;
+}
+
+#mainBody{
+    background-color: #1A1F16;
+    color: #E5FCFF;
+}
