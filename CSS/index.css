@@ -4,7 +4,7 @@
     justify-content: center;
     border-bottom: 3px solid black;
     background-color: #727576;
-    color: #E5FCFF;
+    color: #EFF2EF;
 }
 
 #title{
@@ -17,7 +17,7 @@
 }
 
 #mainBody{
-    background-color: #1A1F16;
-    color: #E5FCFF;
+    background-color: #727576;
+    color: #EFF2EF;
 }
 
