@@ -39,6 +39,7 @@
 #mainBody{
     background-color: #0f1115;
     color: #e6e8ee;
+    height: max-content;
 }
 
 .title{
