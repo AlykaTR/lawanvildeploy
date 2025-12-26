@@ -49,3 +49,7 @@ a{
     color: #4c79ff;
     text-decoration: none;
 }
+
+ul{
+    list-style-position: inside;
+}
