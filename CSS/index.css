@@ -77,12 +77,17 @@ ul{
 }
 
 button {
-    max-width: 100%;
-    box-sizing: border-box;
-
     padding: 12px 20px;
     border-radius: 999px;
+}
 
-    white-space: normal;
-    word-break: break-word;
+@media (max-width: 600px) {
+    .button-group {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .button-group button {
+        width: 100%;
+    }
 }
