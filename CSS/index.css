@@ -3,6 +3,11 @@
     margin: 0px;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -72,8 +77,12 @@ ul{
 }
 
 button {
-    border-radius: 999px;
-    padding: 14px 28px;
     max-width: 100%;
-    white-space: nowrap;
+    box-sizing: border-box;
+
+    padding: 12px 20px;
+    border-radius: 999px;
+
+    white-space: normal;
+    word-break: break-word;
 }
