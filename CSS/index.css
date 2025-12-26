@@ -83,7 +83,7 @@ button {
 
 @media (max-width: 600px) {
     .button-group {
-        flex-direction: column;
+        flex-direction: row;
         align-items: stretch;
     }
 
