@@ -11,6 +11,7 @@
     background-color: #232836;
     color: #c8a951;
     flex-wrap: nowrap;
+    padding-bottom: 3px;
 }
 
 #title{
