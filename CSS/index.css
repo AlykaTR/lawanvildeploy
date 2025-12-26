@@ -66,5 +66,7 @@ ul{
 
 #buttonsForm{
     display: flex;
+    padding-top: 3px;
     justify-content: center;
+    gap: 25%
 }
