@@ -66,4 +66,5 @@ ul{
 
 #buttonsForm{
     display: flex;
+    justify-content: center;
 }
