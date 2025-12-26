@@ -74,6 +74,7 @@ ul{
     padding-top: 25px;
     justify-content: center;
     gap: 12px;
+    margin-bottom: 3px;
 }
 
 button {
