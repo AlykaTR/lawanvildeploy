@@ -73,12 +73,13 @@ ul{
     display: flex;
     padding-top: 25px;
     justify-content: center;
-    gap: 10%
+    gap: 12px;
 }
 
 button {
     padding: 12px 20px;
     border-radius: 999px;
+    box-sizing: border-box;
 }
 
 @media (max-width: 600px) {
