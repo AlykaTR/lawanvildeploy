@@ -81,6 +81,10 @@ button {
     border-radius: 999px;
     box-sizing: border-box;
     max-width: 100%;
+    background-color: transparent;
+    color: #c8a951;
+    border: 2px solid #c8a951;
+    cursor: pointer;
 }
 
 @media (max-width: 600px) {
