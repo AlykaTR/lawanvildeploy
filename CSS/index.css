@@ -51,5 +51,6 @@ a{
 }
 
 ul{
-    list-style-position: inside;
+    list-style-position: outside;
+    vertical-align: middle;
 }
