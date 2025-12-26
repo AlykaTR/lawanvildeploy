@@ -51,7 +51,6 @@ body {
 #mainBody{
     background-color: #0f1115;
     color: #e6e8ee;
-    height: 100%;
     flex: 1 0 auto;
 }
 
@@ -70,6 +69,7 @@ ul{
 }
 
 #buttonsForm{
+    margin: 0;
     display: flex;
     padding-top: 25px;
     justify-content: center;
@@ -80,6 +80,7 @@ button {
     padding: 12px 20px;
     border-radius: 999px;
     box-sizing: border-box;
+    max-width: 100%;
 }
 
 @media (max-width: 600px) {
