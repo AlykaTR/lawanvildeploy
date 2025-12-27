@@ -97,39 +97,10 @@ button {
     #buttonsForm button {
         width: 100%;
     }
-
-    .modal {
-        width: 100%;
-        margin: 16px;
-    }
 }
 
 footer{
     background-color: #0f1115;
     color: #c8a951;
     padding-left: 3%;
-}
-
-.popup-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.6);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 9999;
-}
-
-.hidden {
-    display: none;
-}
-
-.popup {
-    background: #111;
-    color: #fff;
-    padding: 24px;
-    border-radius: 16px;
-    max-width: 90%;
-    width: 400px;
-    box-shadow: 0 0 30px rgba(0,0,0,0.8);
 }
