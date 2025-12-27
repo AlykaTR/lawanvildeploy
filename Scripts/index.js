@@ -1,4 +1,4 @@
-viewUniversesBtn = document.getElementById("viewUniversesButton");
+const viewUniversesBtn = document.getElementById("viewUniversesButton");
 
 viewUniversesBtn.addEventListener("click", viewUniverses);
 
